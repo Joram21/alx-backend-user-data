@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Hashing Passwords """
+""" Hashing Passwords and checking validity """
 
 import bcrypt
 
